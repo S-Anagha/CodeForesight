@@ -1,0 +1,1 @@
+"""CodeForesight package."""
